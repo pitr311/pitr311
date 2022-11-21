@@ -1,7 +1,6 @@
 👋 Siema jestem Piotrek
 👀 Interesuję się programowaniem, sprzętem komputerowym i motoryzacją
 🌱 Aktualnie uczę się c++, lua i HTML
-💞️ Chcę współpracować z twoją mamą
 📫 Mój Discord: pitr311#2137
 
 <!---
